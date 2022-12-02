@@ -23,5 +23,5 @@
 ## *Adding files from working foldger.
 * For adding new file to repository before commit use:
          
-      git add 
+      git add <File name>
 
