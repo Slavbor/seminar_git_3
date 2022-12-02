@@ -20,8 +20,13 @@
               
       git status
 
-## *Adding files from working foldger.
+## *Adding files from working foldger*
 * For adding new file to repository before commit use:
          
       git add <File name>
 
+## *Saving changes to **local** repository*
+* For saving changes and opening default text redactor for you to create the commit message. Changes will be saved in local repo only.
+* Use:
+         
+      git commit
