@@ -21,12 +21,22 @@
       git status
 
 ## *Adding files from working foldger*
-* For adding new file to repository before commit use:
+* For adding new file to repository and for tracking before commit use:
          
       git add <File name>
 
 ## *Saving changes to **local** repository*
-* For saving changes and opening default text redactor for you to create the commit message. Changes will be saved in local repo only.
-* Use:
+* For saving changes and opening default text editor  to create the commit message. Changes will be saved in local repo only. 
+* Use (after **git add**):
+
          
       git commit
+
+* For entering commit message  in terminal directly:
+* Use (after **git add**):
+
+       git commit - m <message>
+
+* For use two commands at once **git add** & **git commit - m**:
+        
+        git commit - am <message>
