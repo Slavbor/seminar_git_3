@@ -1,4 +1,4 @@
-#             **Git instruction** ![](git-logo.png)
+#     **Git instruction**![](git-logo.png)
 
 ## *Git description* 
 
@@ -67,4 +67,3 @@
 * For use two commands at once **git log --oneline** & **git log --all**:
 
       gil log --all --oneline
-
