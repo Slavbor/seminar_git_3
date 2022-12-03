@@ -40,3 +40,12 @@
 * For use two commands at once **git add** & **git commit - m**:
         
         git commit - am <message>
+
+* To getting difference between git branches: 
+  
+      git diff
+
+* For compare commit hashes use:
+  
+      git diff <hash 1> < hash 2>
+      
