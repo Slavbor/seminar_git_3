@@ -48,4 +48,15 @@
 * For compare commit hashes use:
   
       git diff <hash 1> < hash 2>
+
+* For mooving beetwen branches & commits:
+
+      git checkout
+
+* For displaying lis of all commits was saved in branch:
+
+      git log
+* For displaying list of all commits in simplified view line by line:
+
+      git log --oneline
       
