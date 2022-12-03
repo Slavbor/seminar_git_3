@@ -32,14 +32,13 @@
          
       git commit
 
-* For entering commit message  in terminal directly:
-* Use (after **git add**):
+* For entering commit message  in terminal directly use (after **git add**):
 
-       git commit - m <message>
+       git commit -m <message>
 
 * For use two commands at once **git add** & **git commit - m**:
         
-        git commit - am <message>
+        git commit -am <message>
 
 * To getting difference between git branches: 
   
@@ -53,11 +52,19 @@
 
       git checkout
 
-* For displaying lis of all commits was saved in branch:
+* For displaying lis of commits was saved in branch:
 
       git log
 
-* For displaying list of all commits in simplified view line by line:
+* For displaying list of commits in simplified view line by line:
 
       git log --oneline
-      
+
+* For displaying list of all the commits made to a repository:
+
+      git log --all
+
+* For use two commands at once **git log --oneline** & **git log --all**:
+
+      gil log --all --oneline
+
