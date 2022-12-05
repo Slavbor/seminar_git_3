@@ -71,3 +71,9 @@
 ## Branching
 
 Git Branching needed...
+
+## Displying all branches
+
+For displaying all branches use:
+  
+    git branch 
