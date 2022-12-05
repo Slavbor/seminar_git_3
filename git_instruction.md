@@ -67,3 +67,7 @@
 * For use two commands at once **git log --oneline** & **git log --all**:
 
       gil log --all --oneline
+
+## Branching
+
+Git Branching needed...
