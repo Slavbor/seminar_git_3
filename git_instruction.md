@@ -1,4 +1,4 @@
-#     **Git instruction**![](git-logo.png)
+#     **Git instruction**![git logo](git-logo.png)
 
 ## *Git description* 
 
