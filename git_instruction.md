@@ -67,14 +67,14 @@
 * For use two commands at once **git log --oneline** & **git log --all**:
 
       gil log --all --oneline
-
+****************
 ## Branching
 
 Git Branching needed...
 
 ## Displying all branches
 
-For displaying all branches use:
+For displaying list of all branches use:
   
     git branch 
 
