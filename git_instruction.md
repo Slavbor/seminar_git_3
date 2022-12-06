@@ -80,8 +80,11 @@ Git Branching required for develpment separately from main(master) branch and ad
       git branch 
 
 
-
 ## New branch created
+
+* For creation of new branch use:
+ 
+      git branch <branch name>
 
 
 
