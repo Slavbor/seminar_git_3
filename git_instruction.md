@@ -72,12 +72,13 @@
 
 Git Branching required for develpment separately from main(master) branch and adding the necessary changes to main branch only after the revision by responsible person. 
 
+
 ## Displying list of all branches
 
-For displaying list of all branches use:
+* For displaying list of all branches use:
   
-    git branch 
+      git branch 
 
 
 
-##New branch created
+## New branch created
