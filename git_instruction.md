@@ -82,3 +82,11 @@ Git Branching required for develpment separately from main(master) branch and ad
 
 
 ## New branch created
+
+
+
+## Switching between branches.
+
+* For switching between branches:
+
+      git checkout <branch name>
