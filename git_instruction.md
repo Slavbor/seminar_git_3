@@ -93,3 +93,6 @@ Git Branching required for develpment separately from main(master) branch and ad
 * For switching between branches:
 
       git checkout <branch name>
+
+
+* For diplaying list of commits, HEAD location in visual style:
