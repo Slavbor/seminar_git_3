@@ -72,7 +72,7 @@
 
 ## Branching
 
-Git Branching required for develpment separately from main(master) branch and adding the necessary changes to main branch only after the revision by responsible person. 
+Git Branching required for separately development  from main(master) branch and adding the necessary changes to main branch only after revision by responsible person. 
 
 
 ## Displying list of all branches
@@ -82,7 +82,7 @@ Git Branching required for develpment separately from main(master) branch and ad
       git branch 
 
 
-## New branch created
+## New branch creation
 
 * For creation of new branch use:
  
