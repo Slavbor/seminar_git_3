@@ -94,7 +94,9 @@ Git Branching required for develpment separately from main(master) branch and ad
 
       git checkout <branch name>
 
-## List of commits, HEAD in branch location
+## Displaying List of commits, HEAD location 
 
 
-* For diplaying list of commits, HEAD location in visual style use:
+* For diplaying list of commits, HEAD location with visual style use:
+
+      git
