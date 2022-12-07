@@ -98,3 +98,5 @@ Git Branching required for develpment separately from main(master) branch and ad
 
 
 * For diplaying list of commits, HEAD location in visual style use:
+
+      git log --graph
